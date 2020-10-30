@@ -10,7 +10,7 @@ Skills: Java / Spring framework5 / Springboot2 / Hibernate5.4 / Oracle database
 - 📫 How to reach me: alanwinston2019@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codingMechanic73)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/winstonalan//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codingMechanic73)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/winstonalan//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingMechanic73)](https://github.com/anuraghazra/github-readme-stats)
 
